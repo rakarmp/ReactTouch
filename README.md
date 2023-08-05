@@ -1,3 +1,5 @@
+<img src="ReactTouch.png" alt="ReactTouch"/>
+
 # ReactTouch
 
 ReactTouch is a revolutionary Magisk module specifically designed to improve the touchscreen responsiveness of your Android device.
