@@ -88,6 +88,10 @@ echo '11000' > /sys/class/touch/switch/set_touchscreen;
 echo '13060' > /sys/class/touch/switch/set_touchscreen;
 echo '14005' > /sys/class/touch/switch/set_touchscreen;
 
+# Boost
+echo '1'  > /sys/module/msm_performance/parameters/touchboost
+echo '1' > /sys/power/pnpmgr/touch_boost
+
 # Google Service Reduce Drain Tweaks Set Config
 sleep '0.001'
 su -c 'pm enable com.google.android.gms'
