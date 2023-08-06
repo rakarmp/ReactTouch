@@ -16,7 +16,7 @@ REPLACE="
 print_modname() {
   ui_print " "
   ui_print "[=================================]"
-  ui_print "          ReactTouch v1.1          "
+  ui_print "          ReactTouch v1.2          "
   ui_print "         @Zyarexx Telegram         "
   ui_print "[=================================]"
   ui_print " "
