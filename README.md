@@ -1,3 +1,5 @@
+# ! This module will no longer receive updates, please use it carefully, I am not responsible for any problems that occur
+
 <img src="ReactTouch.png" alt="ReactTouch"/>
 
 # ReactTouch
